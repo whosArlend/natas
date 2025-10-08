@@ -1,4 +1,4 @@
-# Natas Notes — OverTheWire
+# Natas — OverTheWire
 
 This repository contains my learning notes for Natas (OverTheWire).
 
