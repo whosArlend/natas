@@ -1,6 +1,7 @@
 # Natas Notes — OverTheWire
 
 This repository contains my learning notes for Natas (OverTheWire).
+
 **Purpose:** learning documentation, concept summaries, and lessons learned.
 
 **Important:** this repository does *not* publish flags, passwords, or instructions that could be misused.
